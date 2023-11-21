@@ -1,0 +1,25 @@
+.title, .timer > div, .form {
+background: #a82293; /* Old browsers */
+background: -moz-linear-gradient(left, #a82293 0%, #a82291 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, #a82293 0%,#a82291 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, #a82293 0%,#a82291 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a82293', endColorstr='#a82291',GradientType=1 ); /* IE6-9 */
+}
+
+
+.prices ul li {
+background: #a82293; /* Old browsers */
+background: -moz-linear-gradient(left, #a82293 0%, #a82291 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, #a82293 0%,#a82291 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, #a82293 0%,#a82291 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a82293', endColorstr='#a82291',GradientType=1 ); /* IE6-9 */
+}
+
+
+.title h1 {
+    color: #fff;
+}
+
+.title h2 {
+    color: #fff;
+}

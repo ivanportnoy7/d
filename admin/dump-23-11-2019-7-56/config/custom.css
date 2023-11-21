@@ -1,0 +1,63 @@
+		html {
+			height: 100%;
+			background: #eee;
+		}
+		body {
+			background: #eee;
+			height: 100%;
+			width: 100%;
+			font-size: 14px;
+		}
+
+		.bold {
+			font-weight: bold;
+		}
+		.center {
+			text-align: center;
+		}
+		.form-width {
+			max-width: 600px;
+		}
+		.form{
+			padding: 20px;
+		}
+		.fs10 {
+			font-size: 10px;
+		}
+		.logo {
+			height: 80px;
+			padding: 5px;
+		}
+		.menus {
+			background: -webkit-linear-gradient(to right, #6A82FB, #FC5C7D);  /* Chrome 10-25, Safari 5.1-6 */
+			background: linear-gradient(to right, #6A82FB, #FC5C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+		}
+		
+		
+		.uk-nav-primary li a {
+			font-size: 1rem;
+		}
+		
+		.login {
+			margin-top: 50px;
+			background-image: url(login-bg.jpg);
+			background-size: cover;
+			background-position: center top;
+		}
+		.black {
+			color: #000;
+		}
+		.overlay {
+			background: rgba(0, 0, 0, 0.5);
+			width: 100%;
+			height: 100%;
+		}
+		.form-width {
+			max-width: 400px;
+		}
+		option {
+			color: #000;
+		}
+		.pdr10 {
+			padding-right: 10px;
+		}
